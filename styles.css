@@ -39,7 +39,7 @@ body {
 }
 
 .illustrations img {
-    max-width: 40%;
+    max-width: 70%;
     height: auto;
     margin: 20px 0;
 }
@@ -48,6 +48,6 @@ body {
 }
 
 video {
-    max-width: 70%;
+    max-width: 90%;
     height: auto;
 }
